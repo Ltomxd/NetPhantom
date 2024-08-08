@@ -1,5 +1,5 @@
 #!/bin/bash
-# Autor: Frank Tom
+# Autor: Ltomxd
 
 # Verificar si se proporcionó un argumento para la interfaz de red
 if [ $# -ne 1 ]; then
